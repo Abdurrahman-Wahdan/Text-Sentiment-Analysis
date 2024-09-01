@@ -8,6 +8,7 @@ In this project, we explored various feature extraction methods and classificati
 
 - Feature Extraction Methods: BERT, Bag of Words (BoW), TF-IDF
 - Classification Methods: SVM, Naive Bayes, XGBoost, Softmax, Logistic Regression
+  
 We evaluated our models using four different metrics: Accuracy, F1 Score, Precision, and Recall.
 
 ## Datasets ##
