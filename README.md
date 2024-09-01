@@ -3,14 +3,12 @@
 
 This project was completed as part of a course at Ankara University. We chose the topic of binary Text Sentiment Analysis (Positive-Negative), a popular subject in Natural Language Processing (NLP).
 
-##Overview##
+## Overview ##
 In this project, we explored various feature extraction methods and classification techniques for sentiment analysis:
 
-Feature Extraction Methods: BERT, Bag of Words (BoW), TF-IDF
-Classification Methods: SVM, Naive Bayes, XGBoost, Softmax, Logistic Regression
+- Feature Extraction Methods: BERT, Bag of Words (BoW), TF-IDF
+- Classification Methods: SVM, Naive Bayes, XGBoost, Softmax, Logistic Regression
 We evaluated our models using four different metrics: Accuracy, F1 Score, Precision, and Recall.
-
-We used 4 different metrics which are Accuracy, F1 Score, Precision-Recall.
 
 We used 2 different datasets which are IMDB Review Dataset and Sentiment140 dataset with 1.6 million tweets.
 
