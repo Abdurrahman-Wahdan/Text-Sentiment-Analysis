@@ -12,8 +12,8 @@ We evaluated our models using four different metrics: Accuracy, F1 Score, Precis
 
 ## Datasets ##
 We used two datasets for our experiments:
-1- IMDB Review Dataset
-2- Sentiment140 Dataset (with 1.6 million tweets)
+1. IMDB Review Dataset
+2.  Sentiment140 Dataset (with 1.6 million tweets)
 
 ## Preprocessing ##
 We performed dataset preprocessing, including removing special characters and phrases, to prepare the data for analysis.
